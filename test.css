@@ -1,0 +1,646 @@
+/* Desktop - 1 */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 150px;
+left: 0px;
+top: 50px;
+
+background: #6380EA;
+border-radius: 0px 0px 8px 8px;
+
+
+/* SmartMove Košice */
+
+position: absolute;
+width: 1241px;
+height: 152px;
+left: 99px;
+top: 47px;
+
+font-family: 'Rubik Puddles';
+font-style: normal;
+font-weight: 400;
+font-size: 128px;
+line-height: 152px;
+/* identical to box height */
+
+color: #EBC351;
+
+
+
+/* Snímka obrazovky 2022-12-03 o 15.45 1 */
+
+position: absolute;
+width: 728px;
+height: 667px;
+left: 645px;
+top: 232px;
+
+background: url(Snímka obrazovky 2022-12-03 o 15.45.png);
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 1440px;
+height: 50px;
+left: 0px;
+top: 0px;
+
+background: #EAE9E9;
+border-radius: 8px 8px 0px 0px;
+
+
+/* square 2 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 1406px;
+top: 17px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #A9A9A9;
+
+
+/* square 1 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 1409px;
+top: 20px;
+
+background: #EAE9E9;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #A9A9A9;
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 20px;
+top: 19px;
+
+background: #FF605C;
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 46px;
+top: 19px;
+
+background: #FFBD44;
+
+
+/* Ellipse 3 */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 72px;
+top: 19px;
+
+background: #00CA4E;
+
+
+/* arrow-down-circle 1 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 1321px;
+top: 20px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #A9A9A9;
+
+
+/* plus 1 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 1378px;
+top: 19px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 25%;
+bottom: 25%;
+
+background: #A9A9A9;
+
+
+/* shield-half-full */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 414px;
+top: 18px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 4.17%;
+bottom: 4.17%;
+
+background: #A9A9A9;
+
+
+/* Group 1 */
+
+position: absolute;
+width: 536px;
+height: 356px;
+left: 27px;
+top: 334px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 500px;
+height: 70px;
+left: 63px;
+top: 334px;
+
+background: #F1F1F1;
+border-radius: 5px;
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 220px;
+height: 70px;
+left: 63px;
+top: 534px;
+
+background: #F1F1F1;
+border-radius: 5px;
+
+
+/* DNES */
+
+position: absolute;
+width: 55px;
+height: 24px;
+left: 146px;
+top: 557px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #A9A9A9;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 220px;
+height: 70px;
+left: 343px;
+top: 534px;
+
+background: #F1F1F1;
+border-radius: 5px;
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 198px;
+height: 42px;
+left: 214px;
+top: 648px;
+
+background: #6380EA;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 500px;
+height: 70px;
+left: 63px;
+top: 434px;
+
+background: #F1F1F1;
+border-radius: 5px;
+
+
+/* ODKIAĽ */
+
+position: absolute;
+width: 51px;
+height: 17px;
+left: 74px;
+top: 344px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* KAM */
+
+position: absolute;
+width: 32px;
+height: 17px;
+left: 74px;
+top: 444px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* TERAZ */
+
+position: absolute;
+width: 64px;
+height: 24px;
+left: 421px;
+top: 557px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #A9A9A9;
+
+
+
+/* VYHĽADAŤ */
+
+position: absolute;
+width: 106px;
+height: 24px;
+left: 260px;
+top: 657px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* Vyberte začiatok */
+
+position: absolute;
+width: 161px;
+height: 24px;
+left: 74px;
+top: 369px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #A9A9A9;
+
+
+
+/* Vyberte cieľ */
+
+position: absolute;
+width: 115px;
+height: 24px;
+left: 74px;
+top: 469px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #A9A9A9;
+
+
+
+/* Group */
+
+position: absolute;
+left: 2.15%;
+right: 96.11%;
+top: 42.09%;
+bottom: 56.54%;
+
+transform: rotate(-90deg);
+
+
+/* Group */
+
+position: absolute;
+left: 2.15%;
+right: 96.11%;
+top: 42.09%;
+bottom: 56.54%;
+
+transform: rotate(-90deg);
+
+
+/* Group */
+
+position: absolute;
+left: 2.15%;
+right: 96.11%;
+top: 42.09%;
+bottom: 56.54%;
+
+transform: rotate(-90deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 2.15%;
+right: 96.11%;
+top: 42.09%;
+bottom: 56.54%;
+
+background: #EBC351;
+transform: rotate(-90deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 5.14%;
+right: 93.12%;
+top: 54.49%;
+bottom: 43.36%;
+
+background: #EBC351;
+
+
+/* Clock */
+
+position: absolute;
+width: 25px;
+height: 25px;
+left: 354px;
+top: 556px;
+
+background: url(.png);
+
+
+/* 360 Degrees */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 27px;
+top: 457px;
+
+background: url(.png);
+
+
+/* Full Moon */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 27px;
+top: 357px;
+
+background: url(.png);
+
+
+/* export-variant */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 1350px;
+top: 19px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 4.17%;
+bottom: 4.17%;
+
+background: #A9A9A9;
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 600px;
+height: 30px;
+left: 445px;
+top: 11px;
+
+border: 1px solid #A9A9A9;
+border-radius: 8px;
+
+
+/* Zadajte vyhľadávanie alebo názov webovej stránky */
+
+position: absolute;
+width: 385px;
+height: 19px;
+left: 547px;
+top: 18px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #A9A9A9;
+
+
+
+/* search 1 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 519px;
+top: 18px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: -0.01%;
+right: 0%;
+top: 0.01%;
+bottom: 0%;
+
+background: #A9A9A9;
+
+
+/* chevron-left 1 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 188px;
+top: 18px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 28.12%;
+right: 28.12%;
+top: 9.37%;
+bottom: 9.37%;
+
+background: #A9A9A9;
+
+
+/* chevron-right 1 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 220px;
+top: 18px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 28.12%;
+right: 28.12%;
+top: 9.37%;
+bottom: 9.37%;
+
+background: #A9A9A9;
+
+
+/* chevron-down 1 */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 147px;
+top: 22px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 9.37%;
+right: 9.37%;
+top: 28.12%;
+bottom: 28.12%;
+
+background: #A9A9A9;
+
+
+/* layout-sidebar 1 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 120px;
+top: 18px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 6.25%;
+bottom: 6.25%;
+
+background: #A9A9A9;
